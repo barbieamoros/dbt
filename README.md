@@ -1,8 +1,8 @@
-Welcome to your new dbt project!
+New dbt project!
 
 ### Using the starter project
 
-Try running the following commands:
+Run the following commands:
 - dbt run
 - dbt test
 
