@@ -1,1 +1,1 @@
-New dbt project!
+New dbt project
